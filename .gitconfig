@@ -5,4 +5,4 @@
 	default = current
 [core]
 	editor = vim
-	excludesfile = /Users/volosojui/.gitignore_global
+	excludesfile = ~/.gitignore_global
