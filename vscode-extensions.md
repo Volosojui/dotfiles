@@ -1,4 +1,4 @@
-The Full list of vs-code extentions i use.
+The full list of vs-code extentions i use.
 
 * [Airbnb React Snippets](https://marketplace.visualstudio.com/items?itemName=cobeia.airbnb-react-snippets)
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
