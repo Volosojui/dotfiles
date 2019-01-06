@@ -1,11 +1,13 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/volosojui/.oh-my-zsh
 
+DEFAULT_USER=`whoami`
+
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -45,7 +47,16 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+  git
+  bundler
+  dotenv
+  osx
+  rake
+  rbenv
+  ruby,
+  zsh-syntax-highlighting
+)
 
 # User configuration
 
@@ -84,3 +95,9 @@ source $(brew --prefix nvm)/nvm.sh
 
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
+
+export PATH="/usr/local/sbin:$PATH"
+
+export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"
+
+export PATH="$HOME/.node/bin:$HOME/.rbenv/shims:$PATH"
