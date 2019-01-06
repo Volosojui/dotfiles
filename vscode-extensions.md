@@ -2,6 +2,7 @@ The full list of vs-code extentions i use.
 
 * [Airbnb React Snippets](https://marketplace.visualstudio.com/items?itemName=cobeia.airbnb-react-snippets)
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=peterjausovec.vscode-docker)
 * [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 * [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
