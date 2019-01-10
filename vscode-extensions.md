@@ -11,4 +11,4 @@ The full list of vs-code extentions i use.
 * [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 * [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 * [Slim](https://marketplace.visualstudio.com/items?itemName=sianglim.slim)
-* [vscode-styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
+* [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
