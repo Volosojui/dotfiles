@@ -54,7 +54,6 @@ plugins=(
   osx
   rake
   rbenv
-  ruby,
   zsh-syntax-highlighting
 )
 
